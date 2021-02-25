@@ -106,3 +106,8 @@ print(10 * 1.61) # 16.1 miles
 ```
 8. If you run a 10 kilometer race in 42 minutes 42 seconds, what is your average pace (time per
 mile in minutes and seconds)? What is your average speed in miles per hour?
+```
+print(16.1 / 2562) # mps 0.006
+print(16.1 / (2562 / 60)) # mpm 0.38
+print(16.1 / (37.8 / 60)) # mph 25.55
+```
